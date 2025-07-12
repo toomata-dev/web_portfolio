@@ -172,16 +172,16 @@ const projects = [
       tags: ["React Native", "Expo", "AppWrite", "JSX"],
       icon: "boxes",
       link: "",
-      github: "https://github.com/pos-dev/covid-tracker",
+      github: "https://github.com/toomata-dev/movie_mobile_app",
       gif: "./img/projects gif/final_movie_app_1.gif"
     },
     {
       title: "Covid Tracker",
       description: "Exploring the WeChat DevTools environment by developing a covid tracker mini program that fetches real-time covid cases data from an API.",
-      tags: ["WeChat", "Node.js", "Postman", "MongoDB", "WXML","WXSS"],
+      tags: ["WeChat", "Node.js", "JS", "Postman", "MongoDB", "WXML","WXSS"],
       icon: "boxes",
       link: "",
-      github: "https://github.com/pos-dev/covid-tracker",
+      github: "https://github.com/toomata-dev/covid_tracker",
       gif: "./img/projects gif/wechat_mini_program.gif"
     },
     {
@@ -190,7 +190,7 @@ const projects = [
       tags: ["React.js", "Gatsby"],
       icon: "code-2",
       link: "",
-      github: "https://github.com/pos-dev/tic-tac-toe",
+      github: "https://github.com/toomata-dev/tic_tag_toe",
       gif: "./img/projects gif/tic_tag_toe.gif"
     },
     {
@@ -199,7 +199,7 @@ const projects = [
       tags: ["WordPress", "MySQL", "Linux", "Hostinger", "PHP", "JavaScript"],
       icon: "code",
       link: "https://www.thebeijingdevils.com/",
-      github: "https://github.com/pos-dev/beijingdevils",
+      github: "https://github.com/toomata-dev/the_beijing_devils",
       gif: "./img/projects gif/bj_devils_site.gif"
     },
     {
@@ -208,7 +208,7 @@ const projects = [
       tags: ["WeChat", "HTML5", "CSS", "JavaScript", "Git & GitHub"],
       icon: "boxes",
       link: "",
-      github: "https://github.com/pos-dev/covid-tracker",
+      github: "https://toomata-dev.github.io/web_portfolio/",
       gif: "./img/projects gif/web_portfolio_1.gif"
     }
   ];
