@@ -172,7 +172,7 @@ const projects = [
       tags: ["React Native", "Expo", "AppWrite", "JSX"],
       icon: "boxes",
       link: "",
-      github: "https://github.com/toomata-dev/movie_mobile_app",
+      github: "https://github.com/toomata-dev/movie_mobile_app/",
       gif: "./img/projects gif/final_movie_app_1.gif"
     },
     {
@@ -181,7 +181,7 @@ const projects = [
       tags: ["WeChat", "Node.js", "JS", "Postman", "MongoDB", "WXML","WXSS"],
       icon: "boxes",
       link: "",
-      github: "https://github.com/toomata-dev/covid_tracker",
+      github: "https://github.com/toomata-dev/covid_tracker/",
       gif: "./img/projects gif/wechat_mini_program.gif"
     },
     {
@@ -190,7 +190,7 @@ const projects = [
       tags: ["React.js", "Gatsby"],
       icon: "code-2",
       link: "",
-      github: "https://github.com/toomata-dev/tic_tag_toe",
+      github: "https://github.com/toomata-dev/tic_tag_toe/",
       gif: "./img/projects gif/tic_tag_toe.gif"
     },
     {
@@ -199,7 +199,7 @@ const projects = [
       tags: ["WordPress", "MySQL", "Linux", "Hostinger", "PHP", "JavaScript"],
       icon: "code",
       link: "https://www.thebeijingdevils.com/",
-      github: "https://github.com/toomata-dev/the_beijing_devils",
+      github: "https://github.com/toomata-dev/the_beijing_devils/",
       gif: "./img/projects gif/bj_devils_site.gif"
     },
     {
