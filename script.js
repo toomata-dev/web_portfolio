@@ -198,7 +198,7 @@ const projects = [
       description: "A complete full-stack WordPress website built from ground up on localhost, and deployed via Hostinger.",
       tags: ["WordPress", "MySQL", "Linux", "Hostinger", "PHP", "JavaScript"],
       icon: "code",
-      link: "https://www.thebeijingdevils.com/",
+      link: "https://www.thebeijingdevils.com",
       github: "https://github.com/toomata-dev/the_beijing_devils",
       gif: "./img/projects gif/bj_devils_site.gif"
     },
@@ -208,7 +208,7 @@ const projects = [
       tags: ["WeChat", "HTML5", "CSS", "JavaScript", "Git & GitHub"],
       icon: "boxes",
       link: "",
-      github: "https://toomata-dev.github.io/web_portfolio/",
+      github: "https://toomata-dev.github.io/web_portfolio",
       gif: "./img/projects gif/web_portfolio_1.gif"
     }
   ];
