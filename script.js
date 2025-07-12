@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-// Project Section
+// Projects Section
 const projects = [
     {
       title: "Mobile Movie App",
