@@ -207,8 +207,8 @@ const projects = [
       description: "A very modern, simple and clean web developer portfolio, showcasing all my past experience",
       tags: ["WeChat", "HTML5", "CSS", "JavaScript", "Git & GitHub"],
       icon: "boxes",
-      link: "",
-      github: "https://toomata-dev.github.io/web_portfolio",
+      link: "https://toomata-dev.github.io/web_portfolio",
+      github: "https://github.com/toomata-dev/web_portfolio",
       gif: "./img/projects gif/web_portfolio_1.gif"
     }
   ];
