@@ -170,7 +170,7 @@ const projects = [
       title: "Mobile Movie App",
       description: "Diving into React Native and Expo by buiding a mobile app that runs in both iOS and Android mobiles",
       tags: ["React Native", "Expo", "AppWrite", "JSX"],
-      icon: "boxes",
+      icon: "clapperboard",
       link: "",
       github: "https://github.com/toomata-dev/movie_mobile_app/",
       gif: "./img/projects gif/final_movie_app_1.gif"
@@ -206,7 +206,7 @@ const projects = [
       title: "Web Portfolio",
       description: "A very modern, simple and clean web developer portfolio, showcasing all my past experience",
       tags: ["WeChat", "HTML5", "CSS", "JavaScript", "Git & GitHub"],
-      icon: "boxes",
+      icon: "chevrons-left-right-ellipsis",
       link: "https://toomata-dev.github.io/web_portfolio",
       github: "https://github.com/toomata-dev/web_portfolio",
       gif: "./img/projects gif/web_portfolio_1.gif"
