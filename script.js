@@ -198,13 +198,8 @@ const projects = [
       description: "A complete full-stack WordPress website built from ground up on localhost, and deployed via Hostinger.",
       tags: ["WordPress", "MySQL", "Linux", "Hostinger", "PHP", "JavaScript"],
       icon: "code",
-<<<<<<< HEAD
       link: "https://www.thebeijingdevils.com",
       github: "https://github.com/toomata-dev/the_beijing_devils",
-=======
-      link: "https://www.thebeijingdevils.com/",
-      github: "https://github.com/toomata-dev/the_beijing_devils/",
->>>>>>> fbb03eb55955e8827cf70a88c72775e968ba7d9c
       gif: "./img/projects gif/bj_devils_site.gif"
     },
     {
