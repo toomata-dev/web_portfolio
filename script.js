@@ -169,7 +169,7 @@ const projects = [
     {
       title: "Mobile Movie App",
       description: "Leveling up my skills in React Native and Expo by building a cross-platform mobile app for both iOS and Android.",
-      tags: ["React.js", "React Native", "Expo", "JavaScript", "TypeScript", "AppWrite", "JSX"],
+      tags: ["React.js", "React Native", "Expo", "JavaScript", "TypeScript", "AppWrite", "JSX", "Tailwind CSS"],
       icon: "clapperboard",
       link: "",
       github: "https://github.com/toomata-dev/movie_mobile_app/",
