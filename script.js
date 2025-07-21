@@ -168,12 +168,21 @@ document.addEventListener('DOMContentLoaded', () => {
 const projects = [
     {
       title: "Mobile Movie App",
-      description: "Diving into React Native and Expo by buiding a mobile app that runs in both iOS and Android mobiles",
-      tags: ["React Native", "Expo", "AppWrite", "JSX"],
+      description: "Leveling up my skills in React Native and Expo by building a cross-platform mobile app for both iOS and Android.",
+      tags: ["React.js", "React Native", "Expo", "JavaScript", "TypeScript", "AppWrite", "JSX"],
       icon: "clapperboard",
       link: "",
       github: "https://github.com/toomata-dev/movie_mobile_app/",
       gif: "./img/projects gif/final_movie_app_1.gif"
+    },
+    {
+      title: "Mobile Sticker App",
+      description: "Exploring React Native and Expo by learning and following tutorials to build a simple sticker app provided by React Native.",
+      tags: ["React.js", "React Native","Node.js", "JavaScript", "JSX", "TypeScript"],
+      icon: "sticker",
+      link: "",
+      github: "https://github.com/toomata-dev/sticker_app/",
+      gif: "./img/projects gif/sticker_app.gif"
     },
     {
       title: "Covid Tracker",
@@ -187,7 +196,7 @@ const projects = [
     {
       title: "Tic Tac Toe",
       description: "A straightforward tic tac toe web game that is fully compatible with any browser.",
-      tags: ["React.js", "Gatsby"],
+      tags: ["React.js", "Gatsby", "JavaScript", "JSX"],
       icon: "code-2",
       link: "",
       github: "https://github.com/toomata-dev/tic_tag_toe/",
