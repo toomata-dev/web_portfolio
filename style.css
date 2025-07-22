@@ -1498,7 +1498,9 @@ footer p {
 }
 
 /* Hide "Demo" Button - Projects  */
+#projectsContainer > div:nth-child(1) > div > div.pt_links-container > a.pt_project-link.pt_demo-link,
 #projectsContainer > div:nth-child(2) > div > div.pt_links-container > a.pt_project-link.pt_demo-link,
-#projectsContainer > div:nth-child(1) > div > div.pt_links-container > a.pt_project-link.pt_demo-link {
+#projectsContainer > div:nth-child(3) > div > div.pt_links-container > a.pt_project-link.pt_demo-link,
+#projectsContainer > div:nth-child(4) > div > div.pt_links-container > a.pt_project-link.pt_demo-link {
     display: none;
 }
