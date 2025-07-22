@@ -214,7 +214,7 @@ const projects = [
     {
       title: "Web Portfolio",
       description: "A very modern, simple and clean web developer portfolio, showcasing all my past experience",
-      tags: ["WeChat", "HTML5", "CSS", "JavaScript", "Git & GitHub"],
+      tags: ["HTML5", "CSS", "JavaScript", "Git & GitHub"],
       icon: "chevrons-left-right-ellipsis",
       link: "https://toomata-dev.github.io/web_portfolio",
       github: "https://github.com/toomata-dev/web_portfolio",
